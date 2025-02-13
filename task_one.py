@@ -1,7 +1,6 @@
 def this_should_be_true():
     return 1 == 3
 
-
 def this_should_be_blue():
     return "red"
 
@@ -19,7 +18,7 @@ def this_should_be_None():
 
 
 def this_should_be_long():
-    return "too short"
+    return "this is long enough"
 
 
 def this_should_be_nine():
