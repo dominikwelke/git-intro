@@ -7,7 +7,7 @@ def this_should_be_blue():
 
 
 def this_should_be_three():
-    return 4
+    return 3
 
 
 def this_should_be_free():
