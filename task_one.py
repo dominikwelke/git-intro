@@ -27,7 +27,7 @@ def this_should_be_nine():
 
 
 def this_should_be_prime():
-    return 13
+    return 11
 
 
 def this_should_be_fine():
