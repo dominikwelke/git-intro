@@ -15,7 +15,7 @@ def this_should_be_free():
 
 
 def this_should_be_None():
-    return False
+    return None
 
 
 def this_should_be_long():
