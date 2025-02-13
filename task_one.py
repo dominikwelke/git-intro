@@ -11,7 +11,7 @@ def this_should_be_three():
 
 
 def this_should_be_free():
-    return "bound"
+    return "free""
 
 
 def this_should_be_None():
