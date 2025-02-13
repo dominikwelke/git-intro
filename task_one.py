@@ -15,7 +15,7 @@ def this_should_be_free():
 
 
 def this_should_be_None():
-    return False
+    return None
 
 
 def this_should_be_long():
@@ -27,7 +27,7 @@ def this_should_be_nine():
 
 
 def this_should_be_prime():
-    return 12
+    return 11
 
 
 def this_should_be_fine():
