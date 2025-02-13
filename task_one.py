@@ -23,7 +23,7 @@ def this_should_be_long():
 
 
 def this_should_be_nine():
-    return 6
+    return 9
 
 
 def this_should_be_prime():
